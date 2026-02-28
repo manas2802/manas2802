@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-
   badge&logo=codeforces" />
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:manasmangalam028@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
     </a>
   </p>
@@ -16,7 +16,7 @@
 
   ## 👨‍💻 About Me
   - 🎓 CSE student
-  - 🧠 Solving **300 Codeforces problems** by summer
+  - 
   - 🌱 Learning **DSA, React, Node.js**
   - 💬 Ask me about **C++, DSA, CP**
 
@@ -39,8 +39,8 @@
   <img src="https://streak-stats.demolab.com?user=manas2802&theme=tokyonight" />
 
   ## 🌐 Connect
-  - Codeforces: https://codeforces.com/profile/YOUR_CF_HANDLE
-  - LinkedIn: YOUR_LINKEDIN_URL
+  - Codeforces: https://codeforces.com/profile/manasmangalam028
+  
 
 <!--
 **manas2802/manas2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
