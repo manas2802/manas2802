@@ -16,7 +16,6 @@
 
   ## 👨‍💻 About Me
   - 🎓 CSE student
-  - 
   - 🌱 Learning **DSA, React, Node.js**
   - 💬 Ask me about **C++, DSA, CP**
 
